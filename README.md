@@ -1,4 +1,4 @@
-## WEB TEMPLATE FINDER
+WEB TEMPLATE FINDER
 
 # About the proyect
 
