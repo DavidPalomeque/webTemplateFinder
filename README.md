@@ -1,7 +1,7 @@
-WEB TEMPLATE FINDER
+# WEB TEMPLATE FINDER
 
-# About the proyect
+## About the proyect
 
-# How to colaborate
+## How to colaborate
 
-# TODO
+## TODO
